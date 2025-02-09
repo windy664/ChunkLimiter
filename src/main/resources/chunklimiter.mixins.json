@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.windy.chunklimiter.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "chunklimiter.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,4 @@
+name: GuildShelter
+main: org.windy.chunklimiter.plugin
+version: 1.0-SNAPSHOT
+api-version: 1.21
